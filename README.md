@@ -1,2 +1,2 @@
 # mapinc-website
-frozen, due to time inavailability 
+frozen, due to time unavailability 
